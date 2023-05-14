@@ -1,4 +1,4 @@
-this is a practice text
+this is a practice text for putting the text into another branch which i have named branch2
 
 this is also practice text
 and this
